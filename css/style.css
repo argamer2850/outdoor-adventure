@@ -298,16 +298,3 @@ footer p {
     width: 100%;
     text-align: center;
 }
-
-::-webkit-scrollbar {
-    width: 6px;
-}
-
-::-webkit-scrollbar-thumb {
-    background: rgba(128, 128, 128, 0.568);
-    border-radius: 5px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: gray;
-}
