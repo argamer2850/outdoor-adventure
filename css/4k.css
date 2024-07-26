@@ -1,0 +1,146 @@
+@media only screen and (min-width: 1441px) and (max-width: 2560px) {
+    h1 {
+        font-size: 120px;
+    }
+    
+    h2 {
+        font-size: 60px;
+    }
+    
+    h3 {
+        font-size: 50px;
+    }
+
+    h4 {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+    
+    p {
+        font-size: 40px;
+    }
+
+    a {
+        font-size: 35px;
+    }
+
+    .section {
+        padding: 373px 0 350px 0;
+    }
+
+    nav h4 {
+        font-size: 45px;
+        margin-top: 30px;
+    }
+
+    nav span {
+        font-size: 35px;
+    }
+
+    nav ul {        
+        margin-top: 30px;
+    }
+
+    nav ul li a {
+        margin-left: 45px;
+    }
+
+    /* A wonderful gift */
+    .wonderful-gift span {
+        width: 10%;
+    }
+
+    .wonderful-gift h1 {
+        margin-bottom: 95px;
+    }
+
+    .wonderful-gift a {
+        padding: 30px;
+        border-radius: 45px;
+    }
+
+    /* Upcoming-event */
+    .upcoming-event {
+        padding: 50px 0 140px 0;
+    }
+
+    .upcoming-event span {
+        width: 12%;
+    }
+
+    .event-main {
+        width: 70%;
+        margin-top: 40px;
+    }
+
+    .event-box {
+        margin: 50px;
+    }
+
+    .event-box img {
+        height: 630px;
+        border-radius: 10px;
+    }
+
+    .event-box p {
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* Explore the world */
+    .explore {
+        padding: 314px 0 285px 0;
+    }
+
+    .explore-box h2 {
+        font-size: 95px;
+    }
+
+    .explore-box span {
+        width: 45%;
+    }
+
+    .explore-box p {
+        width: 83%;
+    }
+
+    /* Upcoming-tours */
+    .tour-main {
+        width: 80%;
+    }
+
+    .tour {
+        padding: 25px;
+    }
+
+    .tour h2 {
+        font-size: 70px;
+    }
+
+    .tour span {
+        width: 63%;
+    }
+
+    .tour p {
+        width: 82%;
+    }
+
+    .tour img {
+        border-radius: 12px;
+    }
+
+    .small {
+        height: 650px;
+        margin-bottom: 40px;
+    }
+
+    .large {
+        height: 760px;
+        margin-bottom: 35px;
+    }
+
+    footer {
+        padding: 80px 0 80px 0;
+    }
+}

@@ -1,0 +1,169 @@
+@media only screen and (min-width: 376px) and (max-width: 425px) {
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 19px;
+    }
+
+    h4 {
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+    
+    p {
+        font-size: 17px;
+    }
+    
+    a {
+        font-size: 19px;
+        letter-spacing: 3px;
+    }
+    
+    a:hover {
+        letter-spacing: 6px;
+    }
+    
+    span {
+        height: 4px;
+        border-radius: 7px;
+    }
+
+    .section {
+        padding: 20px 0 70px 0;
+    }
+    
+    .container {
+        width: 100%;
+    }
+
+    /* Header */
+    nav {
+        display: block;
+    }
+
+    nav h4 {
+        font-size: 30px;
+        text-align: center;
+        width: 100%;
+        margin-top: 0;
+        padding-top: 15px;
+    }
+
+    nav span {
+        font-size: 25px;
+        width: 100%;
+    }
+
+    nav ul {
+        display: block;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    nav ul li a {
+        margin-left: 0;
+    }
+
+    /* A wonderful gift */
+    .wonderful-gift span {
+        width: 30%;
+    }
+
+    .wonderful-gift h1 {
+        margin-top: 45px;
+    }
+
+    .wonderful-gift a {
+        padding: 18px;
+        font-size: 17px;
+    }
+
+    /* Upcoming-event */
+    .upcoming-event {
+        padding: 20px 0 30px 0;
+    }
+
+    .upcoming-event span {
+        width: 25%;
+    }
+
+    .event-main {
+        width: 95%;
+    }
+
+    .event-box img {
+        height: 300px;
+    }
+
+    /* Explore the world */
+    .explore-main {
+        width: 100%;
+        display: block;
+    }
+
+    .explore-box {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .explore-box h2 {
+        font-size: 45px;
+    }
+
+    .explore-box p {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    /* Upcoming-tours */
+    .upcoming-tours {
+        padding: 50px 0 50px 0;
+    }
+
+    .tour-main {
+        width: 85%;
+        display: block;
+        text-align: center;
+        margin: auto;
+    }
+
+    .tour {
+        padding: 0;
+    }
+
+    .tour h2 {
+        font-size: 25px;
+    }
+
+    .tour span {
+        width: 49%;
+    }
+
+    .tour p {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .tour img {
+        border-radius: 5px;
+    }
+
+    .tour-img-1 {
+        margin-top: 35px;
+    }
+
+    .small {
+        height: 250px;
+    }
+
+    .large {
+        height: 250px;
+    }
+}

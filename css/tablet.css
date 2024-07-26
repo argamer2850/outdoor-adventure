@@ -1,0 +1,108 @@
+@media only screen and (min-width: 426px) and (max-width: 768px) {
+    h1 {
+        font-size: 50px;
+    }
+
+    h3 {
+        font-size: 23px;
+    }
+
+    h4 {
+        font-size: 22px;
+        margin-bottom: 0;
+    }
+
+    p {
+        font-size: 17px;
+    }
+    
+    a {
+        font-size: 17px;
+        letter-spacing: 3px;
+    }
+
+    .section {
+        padding: 130px 0 70px 0;
+    }
+
+    /* Header */
+
+    nav ul li a {
+        margin-left: 15px;
+    }
+
+    /* A wonderful gift */
+    .wonderful-gift span {
+        width: 15%;
+    }
+
+    .wonderful-gift a {
+        padding: 18px;
+    }
+
+    /* Upcoming-event */
+    .upcoming-event {
+        padding: 20px 0 30px 0;
+    }
+
+    .event-main {
+        width: 92%;
+        margin-top: 30px;
+    }
+
+    /* Explore the world */
+    .explore-box span {
+        width: 87%;
+    }
+
+    .explore-box p {
+        width: 100%;
+    }
+
+    /* Upcoming-tours */
+    .upcoming-tours {
+        padding: 50px 0 50px 0;
+    }
+
+    .tour-main {
+        width: 70%;
+        display: block;
+        text-align: center;
+        margin: auto;
+    }
+
+    .tour {
+        padding: 0;
+    }
+
+    .tour h2 {
+        font-size: 35px;
+    }
+
+    .tour span {
+        width: 51%;
+    }
+
+    .tour p {
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+        margin-bottom: 35px;
+    }
+
+    .tour img {
+        border-radius: 5px;
+    }
+
+    .tour-img-1 {
+        margin-top: 35px;
+    }
+
+    .small {
+        height: 350px;
+    }
+
+    .large {
+        height: 450px;
+    }
+}

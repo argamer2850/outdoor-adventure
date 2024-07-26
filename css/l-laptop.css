@@ -1,0 +1,57 @@
+@media only screen and (min-width: 1367px) and (max-width: 1440px) {
+    h1 {
+        font-size: 65px;
+    }
+    
+    h2 {
+        font-size: 35px;
+    }
+    
+    h3 {
+        font-size: 29px;
+    }
+    
+    a {
+        font-size: 22px;
+    }
+
+    .section {
+        padding: 165px 0 150px 0;
+    }
+
+    /* A wonderful gift */
+    .wonderful-gift span {
+        width: 12%;
+    }
+
+    .wonderful-gift a {
+        padding: 22px;
+        font-size: 20px;
+    }
+    
+    /* Upcoming-event */
+    .event-main {
+        width: 75%;
+        margin-top: 45px;
+    }
+
+    .event-box p {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* Explore the world */
+    .explore-box span {
+        width: 47%;
+    }
+
+    /* Upcoming tours */
+    .tour span {
+        width: 64%;
+    }
+
+    .large {
+        height: 500px;
+    }
+}

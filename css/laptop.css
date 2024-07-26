@@ -1,0 +1,48 @@
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    p {
+        font-size: 19px;
+    }
+
+    .event-box h3 {
+        font-size: 28px;
+    }
+
+    /* Explore the world */
+    .explore-box span {
+        width: 65%;
+    }
+
+    .explore-box p {
+        width: 85%;
+    }
+
+     /* Upcoming-tours */
+     .tour-main {
+        width: 90%;
+    }
+
+    .tour h2 {
+        font-size: 29px;
+    }
+
+    .tour span {
+        width: 64%;
+    }
+
+    .tour img {
+        border-radius: 5px;
+    }
+
+    .small {
+        height: 300px;
+    }
+
+    .large {
+        height: 450px;
+    }
+
+    /* Footer */
+    footer p {
+        font-size: 18px;
+    }
+}

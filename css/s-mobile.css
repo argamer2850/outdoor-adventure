@@ -1,0 +1,178 @@
+@media only screen and (max-width: 320px) {
+    h1 {
+        font-size: 35px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    h4 {
+        font-size: 17px;
+        margin-bottom: 0;
+    }
+    
+    p {
+        font-size: 15px;
+    }
+    
+    a {
+        font-size: 13px;
+        letter-spacing: 3px;
+    }
+    
+    a:hover {
+        letter-spacing: 6px;
+    }
+    
+    span {
+        height: 4px;
+        border-radius: 7px;
+    }
+
+    .section {
+        padding: 20px 0 50px 0;
+    }
+    
+    .container {
+        width: 100%;
+    }
+
+    /* Header */
+    nav {
+        display: block;
+    }
+
+    nav h4 {
+        font-size: 20px;
+        text-align: center;
+        width: 100%;
+        margin-top: 0;
+        padding-top: 15px;
+    }
+
+    nav span {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    nav ul {
+        display: block;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    nav ul li a {
+        margin-left: 0;
+    }
+
+    /* A wonderful gift */
+    .wonderful-gift h3 {
+        font-size: 17px;
+    }
+    
+    .wonderful-gift span {
+        width: 30%;
+    }
+
+    .wonderful-gift h1 {
+        margin-top: 25px;
+    }
+
+    .wonderful-gift a {
+        padding: 14px;
+        font-size: 13px;
+    }
+
+    /* Upcoming-event */
+    .upcoming-event {
+        padding: 20px 0 30px 0;
+    }
+
+    .upcoming-event span {
+        width: 25%;
+    }
+
+    .event-main {
+        width: 95%;
+    }
+
+    .event-box h3 {
+        font-size: 18px;
+    }
+
+    .event-box img {
+        height: 200px;
+        box-shadow: 6px 5px 2px #8080807d;
+    }
+
+    /* Explore the world */
+    .explore-main {
+        width: 100%;
+        display: block;
+    }
+
+    .explore-box {
+        width: 85%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .explore-box h2 {
+        font-size: 45px;
+    }
+
+    .explore-box span {
+        width: 60%;
+    }
+
+    .explore-box p {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    /* Upcoming-tours */
+    .upcoming-tours {
+        padding: 50px 0 50px 0;
+    }
+
+    .tour-main {
+        width: 85%;
+        display: block;
+        text-align: center;
+        margin: auto;
+    }
+
+    .tour {
+        padding: 0;
+    }
+
+    .tour span {
+        width: 63%;
+    }
+
+    .tour p {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    .tour img {
+        border-radius: 5px;
+    }
+
+    .tour-img-1 {
+        margin-top: 35px;
+    }
+
+    .small {
+        height: 250px;
+    }
+
+    .large {
+        height: 250px;
+    }
+}
